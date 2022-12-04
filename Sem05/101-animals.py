@@ -1,2 +1,2 @@
-class MissingParametererror(Exception)
+class MissingParameterError(Exception)
     pass
